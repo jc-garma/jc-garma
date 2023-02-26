@@ -6,7 +6,7 @@ I am **Juan Carlos**, a computer science graduate from Salamanca, Spain 👨‍�
 
 ## 🔎 About me :
 <!----📚 Studying a computer science master's degree at the University of Salamanca.--->
-- 🔭 I’m currently working as **JN2 Software Engineer**
+- 🔭 I’m currently working as **Junior Software Engineer**
 - 🌱 I’m currently learning **React JS - Web Development**.
 <!----- 👀 I’m interested in ...--->
 <!---- 💞️ I’m looking to collaborate on ...--->
