@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I am  **Juan Carlos**, a computer science graduate from Salamanca, Spain 👨‍💻. I am currently working as a **Front End Developer**. <br/> I like to do things related to **Front End and Backend Development and my interests include Java and cloud services ☁**
+I am **Juan Carlos**, a computer science graduate from Salamanca, Spain 👨‍💻. I am currently working as a **Front End Developer**. I like to do things related to **Front End and Backend Development and my interests include Java and cloud services ☁**
 
 ---
 
